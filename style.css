@@ -20,7 +20,7 @@ body {
 }
 
 header, section {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 
 header img {
@@ -53,12 +53,8 @@ p {
 
 a {
     color: #ff69b4;
-    text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-}
 
 #work img {
     max-width: 100%;
@@ -69,9 +65,19 @@ a:hover {
 }
 
 .title {
-    border-bottom: 2px solid #ff69b4;
+    border: 2px solid #111;
     width: fit-content;
     margin: 0 auto 1rem auto;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    background-color: #ff69b4;
+    color: #eee;
+}
+
+#theme-title {
+    font-size: 28px;
+    margin-bottom: 1rem;
+    color: #ff69b4;
 }
 
 footer {
