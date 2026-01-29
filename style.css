@@ -86,7 +86,7 @@ p {
     padding-bottom: 0.5rem;
 }
 
-#theme-title {
+#project-title {
     font-size: 28px;
     margin-bottom: 1rem;
     color: #ff69b4;
@@ -102,6 +102,6 @@ a {
 
 footer {
     margin-top: 3rem;
-    font-size: 0.9rem;;
+    font-size: 1rem;
     color: #555;
 }
