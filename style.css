@@ -60,7 +60,7 @@ p {
     margin-bottom: 1rem;
 }
 
-a {
+.btn {
     background-color: #111;
     color: #eee;
     text-decoration: none;
@@ -101,6 +101,10 @@ a {
     width: fit-content;
     margin: 0 auto 1rem auto;
     padding-bottom: 0.5rem;
+}
+a {
+    color: #ff69b4;
+    margin-right: 0.5rem;
 }
 
 footer {
